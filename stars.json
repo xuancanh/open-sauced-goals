@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "tholman/cursor-effects",
+    "stargazers_count": 1644,
+    "open_issues_count": 5,
+    "forks_count": 141
+  },
+  {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 2386,
-    "open_issues_count": 18,
-    "forks_count": 27
+    "stargazers_count": 2718,
+    "open_issues_count": 26,
+    "forks_count": 34
   },
   {
     "full_name": "antchfx/xmlquery",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6171,
+    "stargazers_count": 6192,
     "open_issues_count": 1,
-    "forks_count": 356
+    "forks_count": 357
   },
   {
     "full_name": "Engineer-Petr/Engineer-Petr.github.io",
@@ -25,25 +31,25 @@
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 17749,
+    "stargazers_count": 17754,
     "open_issues_count": 13,
     "forks_count": 2157
   },
   {
     "full_name": "permitio/opal",
-    "stargazers_count": 690,
+    "stargazers_count": 691,
     "open_issues_count": 36,
-    "forks_count": 57
+    "forks_count": 56
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 7443,
+    "stargazers_count": 7460,
     "open_issues_count": 79,
-    "forks_count": 290
+    "forks_count": 289
   },
   {
     "full_name": "weaveworks/ignite",
-    "stargazers_count": 2355,
+    "stargazers_count": 2356,
     "open_issues_count": 157,
     "forks_count": 176
   },
@@ -67,37 +73,37 @@
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 12853,
-    "open_issues_count": 283,
+    "stargazers_count": 12857,
+    "open_issues_count": 282,
     "forks_count": 358
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 20578,
-    "open_issues_count": 711,
-    "forks_count": 1654
+    "stargazers_count": 20612,
+    "open_issues_count": 713,
+    "forks_count": 1656
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3034,
+    "stargazers_count": 3039,
     "open_issues_count": 0,
     "forks_count": 110
   },
   {
     "full_name": "rxhanson/Rectangle",
-    "stargazers_count": 18328,
-    "open_issues_count": 39,
+    "stargazers_count": 18339,
+    "open_issues_count": 38,
     "forks_count": 522
   },
   {
     "full_name": "hbollon/go-edlib",
-    "stargazers_count": 338,
+    "stargazers_count": 339,
     "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 17739,
+    "stargazers_count": 17741,
     "open_issues_count": 24,
     "forks_count": 978
   },
@@ -109,74 +115,68 @@
   },
   {
     "full_name": "arzzen/git-quick-stats",
-    "stargazers_count": 5466,
+    "stargazers_count": 5467,
     "open_issues_count": 11,
     "forks_count": 226
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 358,
-    "open_issues_count": 16,
+    "stargazers_count": 359,
+    "open_issues_count": 17,
     "forks_count": 22
   },
   {
     "full_name": "avo-hq/avo",
     "stargazers_count": 775,
-    "open_issues_count": 51,
+    "open_issues_count": 43,
     "forks_count": 82
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 29411,
-    "open_issues_count": 167,
-    "forks_count": 3287
+    "stargazers_count": 29430,
+    "open_issues_count": 171,
+    "forks_count": 3288
   },
   {
     "full_name": "OWASP/Go-SCP",
-    "stargazers_count": 4262,
+    "stargazers_count": 4268,
     "open_issues_count": 13,
     "forks_count": 324
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 18208,
-    "open_issues_count": 141,
-    "forks_count": 843
+    "stargazers_count": 18347,
+    "open_issues_count": 147,
+    "forks_count": 849
   },
   {
     "full_name": "saharmor/dalle-playground",
-    "stargazers_count": 2352,
+    "stargazers_count": 2353,
     "open_issues_count": 54,
     "forks_count": 524
   },
   {
     "full_name": "borisdayma/dalle-mini",
-    "stargazers_count": 12592,
+    "stargazers_count": 12613,
     "open_issues_count": 75,
-    "forks_count": 915
+    "forks_count": 918
   },
   {
     "full_name": "sirupsen/napkin-math",
-    "stargazers_count": 1734,
+    "stargazers_count": 1735,
     "open_issues_count": 1,
     "forks_count": 84
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 7363,
+    "stargazers_count": 7366,
     "open_issues_count": 0,
     "forks_count": 868
   },
   {
     "full_name": "ashishpatel26/Andrew-NG-Notes",
-    "stargazers_count": 1266,
+    "stargazers_count": 1269,
     "open_issues_count": 1,
-    "forks_count": 539
-  },
-  {
-    "full_name": "keycloak/keycloak",
-    "stargazers_count": 13301,
-    "open_issues_count": 1335,
-    "forks_count": 4708
+    "forks_count": 541
   }
 ]
