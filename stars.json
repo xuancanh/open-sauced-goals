@@ -1,31 +1,31 @@
 [
   {
     "full_name": "Snailclimb/JavaGuide",
-    "stargazers_count": 128320,
+    "stargazers_count": 128411,
     "open_issues_count": 63,
-    "forks_count": 42733
+    "forks_count": 42758
   },
   {
     "full_name": "CatalogueOfLife/backend",
     "stargazers_count": 8,
-    "open_issues_count": 177,
+    "open_issues_count": 181,
     "forks_count": 9
   },
   {
     "full_name": "arialdomartini/Back-End-Developer-Interview-Questions",
-    "stargazers_count": 13094,
+    "stargazers_count": 13102,
     "open_issues_count": 14,
-    "forks_count": 1674
+    "forks_count": 1676
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 19401,
-    "open_issues_count": 24,
-    "forks_count": 4202
+    "stargazers_count": 19443,
+    "open_issues_count": 25,
+    "forks_count": 4232
   },
   {
     "full_name": "mintlify/writer",
-    "stargazers_count": 1500,
+    "stargazers_count": 1505,
     "open_issues_count": 29,
     "forks_count": 48
   },
@@ -37,51 +37,51 @@
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 15766,
-    "open_issues_count": 61,
-    "forks_count": 498
+    "stargazers_count": 15852,
+    "open_issues_count": 62,
+    "forks_count": 502
   },
   {
     "full_name": "PKUFlyingPig/cs-self-learning",
-    "stargazers_count": 13562,
-    "open_issues_count": 34,
-    "forks_count": 1818
+    "stargazers_count": 13630,
+    "open_issues_count": 32,
+    "forks_count": 1823
   },
   {
     "full_name": "single-spa/single-spa",
-    "stargazers_count": 11798,
-    "open_issues_count": 36,
-    "forks_count": 844
+    "stargazers_count": 11812,
+    "open_issues_count": 37,
+    "forks_count": 845
   },
   {
     "full_name": "topolvm/topolvm",
     "stargazers_count": 488,
-    "open_issues_count": 16,
-    "forks_count": 107
+    "open_issues_count": 17,
+    "forks_count": 108
   },
   {
     "full_name": "tholman/cursor-effects",
-    "stargazers_count": 2331,
+    "stargazers_count": 2338,
     "open_issues_count": 8,
     "forks_count": 178
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 4016,
-    "open_issues_count": 43,
-    "forks_count": 52
+    "stargazers_count": 4023,
+    "open_issues_count": 45,
+    "forks_count": 50
   },
   {
     "full_name": "antchfx/xmlquery",
-    "stargazers_count": 316,
+    "stargazers_count": 317,
     "open_issues_count": 19,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 6582,
-    "open_issues_count": 3,
-    "forks_count": 392
+    "stargazers_count": 6593,
+    "open_issues_count": 1,
+    "forks_count": 396
   },
   {
     "full_name": "Engineer-Petr/Engineer-Petr.github.io",
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 18604,
+    "stargazers_count": 18789,
     "open_issues_count": 15,
-    "forks_count": 2227
+    "forks_count": 2232
   },
   {
     "full_name": "permitio/opal",
-    "stargazers_count": 806,
-    "open_issues_count": 40,
+    "stargazers_count": 810,
+    "open_issues_count": 38,
     "forks_count": 66
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 8358,
-    "open_issues_count": 93,
-    "forks_count": 356
+    "stargazers_count": 8438,
+    "open_issues_count": 94,
+    "forks_count": 359
   },
   {
     "full_name": "weaveworks/ignite",
-    "stargazers_count": 3056,
+    "stargazers_count": 3060,
     "open_issues_count": 158,
     "forks_count": 189
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "undergroundwires/CEH-in-bullet-points",
-    "stargazers_count": 536,
+    "stargazers_count": 540,
     "open_issues_count": 8,
-    "forks_count": 170
+    "forks_count": 172
   },
   {
     "full_name": "paradite/sg-tech-list",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 13312,
-    "open_issues_count": 263,
+    "stargazers_count": 13322,
+    "open_issues_count": 272,
     "forks_count": 378
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 22665,
-    "open_issues_count": 666,
-    "forks_count": 1900
+    "stargazers_count": 22727,
+    "open_issues_count": 668,
+    "forks_count": 1912
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3133,
+    "stargazers_count": 3139,
     "open_issues_count": 0,
-    "forks_count": 122
+    "forks_count": 123
   },
   {
     "full_name": "rxhanson/Rectangle",
-    "stargazers_count": 19064,
+    "stargazers_count": 19091,
     "open_issues_count": 44,
-    "forks_count": 554
+    "forks_count": 556
   },
   {
     "full_name": "hbollon/go-edlib",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 17884,
+    "stargazers_count": 17889,
     "open_issues_count": 27,
-    "forks_count": 986
+    "forks_count": 989
   },
   {
     "full_name": "kkuchta/css-only-chat",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "arzzen/git-quick-stats",
-    "stargazers_count": 5531,
+    "stargazers_count": 5533,
     "open_issues_count": 11,
     "forks_count": 229
   }
